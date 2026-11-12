@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turbo SMS</string>
+    <string name="server_status">Server Status</string>
+    <string name="port_label">HTTP Port</string>
+    <string name="port_hint">9000</string>
+    <string name="connected_devices">Connected Devices</string>
+    <string name="server_running">Server Running</string>
+    <string name="server_stopped">Server Stopped</string>
+    <string name="no_devices">No devices connected</string>
+    <string name="notification_channel_name">Turbo SMS Server</string>
+    <string name="notification_channel_desc">SMS Server notification channel</string>
+
+    <!-- About Section -->
+    <string name="about_developer_title">About Developer</string>
+    <string name="developer_name">Developer: Abdullah Al Mamun</string>
+    <string name="developer_address">Address: Dhaka, Bangladesh</string>
+    <string name="developer_email">Email: mamun995599@gmail.com</string>
+    <string name="developer_phone">Phone: +8801945120109</string>
+
+    <!-- UI Labels -->
+    <string name="server_control">Server Control</string>
+    <string name="http_server">HTTP Server</string>
+    <string name="access_url">Access URL:</string>
+    <string name="sms_statistics">SMS Statistics</string>
+    <string name="sent">Sent</string>
+    <string name="failed">Failed</string>
+    <string name="pending">Pending</string>
+
+    <!-- v2 UI -->
+    <string name="app_tagline">Bulk SMS gateway for your phone</string>
+    <string name="web_pin">Web login PIN</string>
+    <string name="web_pin_hint">Enter this PIN in the browser to unlock the web panel.</string>
+    <string name="copy">Copy</string>
+    <string name="new_pin">New PIN</string>
+    <string name="open_in_browser">Open</string>
+    <string name="menu_battery">Battery optimization</string>
+    <string name="menu_permissions">Permissions</string>
+    <string name="menu_about">About</string>
+    <string name="connected_hint">Open the address on any device in the same Wi-Fi.</string>
+</resources>
